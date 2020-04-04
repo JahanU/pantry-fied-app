@@ -38,7 +38,7 @@
         "express": "^4.16.4",
         "graphql": "^14.1.1",
         "jsonwebtoken": "^8.5.0",
-        "lodash": "^4.17.11",
+        "lodash": "^4.17.13",
         "merge-graphql-schemas": "^1.5.8",
         "pg": "^7.8.1",
         "request": "^2.88.0",
