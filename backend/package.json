@@ -30,7 +30,7 @@
     },
     "dependencies": {
         "apollo-server": "^2.11.0",
-        "apollo-server-express": "^2.11.0",
+        "apollo-server-express": "^2.14.2",
         "bcryptjs": "^2.4.3",
         "body-parser": "^1.19.0",
         "braces": "^3.0.2",
