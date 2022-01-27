@@ -1,4 +1,5 @@
 # Pantryfied
-Pantryfied mobile app.
+Pantryfied Mobile App.
 
-For the group project for the second year we have created a mobile food app via React-Native, NodeJS and Postgres. The food app works by filtering your leftover ingredients and then ranking recipes in order of similarities.
+4 Friends from university created a mobile food app during one summer.<br>
+The food app works by filtering your leftover ingredients and then ranking recipes in order of similarities.
